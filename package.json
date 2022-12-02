@@ -2,14 +2,14 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://ElizPery.github.io/project-mimino",
+  "homepage": "https://AntoshaProgram1st.github.io/project-toni",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project-mimino/"
+    "build": "parcel build src/*.html --public-url /project-toni/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ElizPery/project-mimino.git"
+    "url": "git+https://github.com/AntoshaProgram1st/project-toni.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
